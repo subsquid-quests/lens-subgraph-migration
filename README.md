@@ -18,7 +18,7 @@ This quest is to migrate the [Lens Protocol subgraph](https://github.com/protofi
 
 | Category         | Skill Level                           | Time required (hours) | Max Participants | Reward                                | Status |
 | ---------------- | ------------------------------------- | --------------------- | ---------------- | ------------------------------------- | ------ |
-| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~20                   | 5                | $\textcolor{red}{\textsf{3000tSQD}}$  | open   |
+| Squid Deployment | $\textcolor{orange}{\textsf{Medium}}$ | ~20                   | 5                | $\textcolor{red}{\textsf{2250tSQD}}$  | open   |
 
 # Acceptance critera
 
